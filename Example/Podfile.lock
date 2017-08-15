@@ -1,0 +1,16 @@
+PODS:
+  - WSJImagePicker (0.1.0)
+
+DEPENDENCIES:
+  - WSJImagePicker (from `../`)
+
+EXTERNAL SOURCES:
+  WSJImagePicker:
+    :path: ../
+
+SPEC CHECKSUMS:
+  WSJImagePicker: 41e53921140343c19453cd49cf31db07414d6c19
+
+PODFILE CHECKSUM: 659e30730c7a0dbbaa9b3985038a9fd7ffa3d4cf
+
+COCOAPODS: 1.2.1

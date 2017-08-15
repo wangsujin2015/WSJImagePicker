@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'WSJImagePicker_Example' do
+  pod 'WSJImagePicker', :path => '../'
+
+  target 'WSJImagePicker_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
